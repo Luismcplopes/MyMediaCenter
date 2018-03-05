@@ -2,6 +2,7 @@
 Raspeberry Pi with  OSMC( + SSH + Samba + Transmissio + Sickrage + CouchPotato)
  
 ## Install on SD card
+ - https://computers.tutsplus.com/articles/how-to-flash-an-sd-card-for-raspberry-pi--mac-53600
 
 ## activar
 ### SSH
