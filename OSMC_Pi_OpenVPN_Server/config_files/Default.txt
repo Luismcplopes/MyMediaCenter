@@ -1,0 +1,32 @@
+#/etc/openvpn/esy-rsa/keys/Default.txt
+# Update the file by following the instructions given after each ## 
+
+client
+
+dev tun
+
+proto udp
+
+remote your-dns.dynamic-dns.net 1194 ## CHANGE your-dns.dynamic-dns.net TO THE DOMAIN/ip YOU CREATED IN YOUR CHANGEIP.COM ACCOUNT (DO NOT prefix with www.)
+
+resolv-retry infinite
+
+nobind
+
+persist-key
+
+persist-tun
+
+mute-replay-warnings
+
+ns-cert-type server
+
+key-direction 1
+
+cipher AES-128-CBC
+
+comp-lzo
+
+verb 1
+
+mute 20 
