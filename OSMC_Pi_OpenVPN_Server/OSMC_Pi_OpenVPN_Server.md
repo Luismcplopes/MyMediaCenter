@@ -1,12 +1,3 @@
-<https://2ellsblog.wordpress.com/2016/02/09/osmc-pi-create-a-dynamic-dns-on-changeip-com/>
-
-https://2ellsblog.wordpress.com/2016/02/09/osmc-pi-create-a-dynamic-dns-on-changeip-com
-
-<https://yeghishe.github.io/2015/08/19/installing-openvpn-in-osmc.html>
-
-https://github.com/ortizimo/RPi3-OpenVPN-Setup/blob/master/instructions.txt
-
-
 
 # OSMC Pi OpenVPN Server: Set up OpenVPN Server
 
